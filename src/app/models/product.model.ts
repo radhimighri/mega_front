@@ -1,4 +1,4 @@
-export interface ProductModelServer {
+export interface ProductModelServer { // this will be a part model used by our anguler server
     id: number;
     name : string;
     categoroy: string;
